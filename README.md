@@ -37,7 +37,7 @@ Check out some of my favorite projects:
 
 ## 💼 Tools & Skills
 
-- **Editing**: Adobe Premiere Pro, Final Cut Pro, CapCut Pro, DaVinci Resolve  
+- **Editing**: Adobe Premiere Pro, CapCut Pro, DaVinci Resolve  
 - **Motion Design**: After Effects, Canva, Lottie  
 - **Sound**: Audition, Epidemic Sound, SFX  
 - **Workflow**: Frame.io, Notion, Google Drive, Slack  
